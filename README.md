@@ -1,5 +1,5 @@
 # Credit-Card-Check
-The Luhn function is used to check for credit cards credibility
+The Luhn function is used to check for credit cards credibility.
 
 ## Project description
 The luhn function is used to check if the number entered by the user is real or not by checking if it's a luhn number. The user enter a credit card number to check its 
