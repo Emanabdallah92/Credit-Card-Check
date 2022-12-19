@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671490757 source:c:\users\emana\desktop\code\luhn function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
